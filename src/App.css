@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.another{
+  background-image: url("./img/b2.webp");
+  max-width: 100%; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-attachment: fixed;
+  max-height: 1000px;
+  opacity: 1500;
+}

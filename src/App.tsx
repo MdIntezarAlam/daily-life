@@ -19,8 +19,8 @@ function App() {
 
 
   return (
-    <div className="mt-5">
-      <h1 className='p-3 fs-2 ' style={{textAlign:'center'}}>This is Daily Life Applications</h1>
+    <div className="mt-5 another">
+      <h1 className='p-3 fs-2 ' style={{textAlign:'center', color:'white'}}>This is Daily Life Applications</h1>
       <Header />
       <Container>
         <Row>
